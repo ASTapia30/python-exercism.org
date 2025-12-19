@@ -24,6 +24,7 @@ Soluciones a problemas de LeetCode en Python.
 - [1342. Number of Steps to Reduce a Number to Zero](LeetCodeSolutions.ipynb#1342-number-of-steps-to-reduce-a-number-to-zero) - Cuenta los pasos para reducir un número a cero.
 - [1480. Running Sum of 1d Array](LeetCodeSolutions.ipynb#1480-running-sum-of-1d-array) - Calcula la suma acumulada de un arreglo.
 - [1672. Richest Customer Wealth](LeetCodeSolutions.ipynb#1672-richest-customer-wealth) - Encuentra la riqueza máxima entre clientes.
+- [383. Ransom Note](LeetCodeSolutions.ipynb#383-ramson-note) - Verifica si una nota puede construirse con letras de una revista.
 
 ### [Exercises](Exercises.ipynb)
 Ejercicios de práctica en Python.
