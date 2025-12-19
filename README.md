@@ -6,6 +6,7 @@
 
 - **LeetCode Solutions**: Soluciones a problemas clásicos de LeetCode, con explicaciones, complejidad y pruebas.
 - **Exercises**: Ejercicios adicionales de Python para practicar conceptos básicos y avanzados.
+- **[Python Data Structures Cheat Sheet](Python_Data_Structures_Cheat_Sheet.md)**: Guía completa de estructuras de datos en Python con métodos y casos de uso.
 
 Cada notebook incluye:
 - Descripción del problema.
@@ -30,6 +31,12 @@ Soluciones a problemas de LeetCode en Python.
 Ejercicios de práctica en Python.
 
 *(Nota: Este archivo puede contener ejercicios variados; revisa el notebook para detalles específicos.)*
+
+### [Python Data Structures Cheat Sheet](Python_Data_Structures_Cheat_Sheet.md)
+Guía completa de estructuras de datos en Python, incluyendo:
+- Listas, Tuplas, Diccionarios, Conjuntos
+- Deque, NamedTuple, DefaultDict, Counter
+- Métodos principales y casos de uso con ejemplos
 
 ## Cómo usar
 
